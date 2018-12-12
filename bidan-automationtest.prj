@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>bidan-automationtest</name>
+   <tag></tag>
+   <UUID>bd8b6797-6a26-46ac-907d-fff8acc46ffb</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>
